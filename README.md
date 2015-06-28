@@ -15,13 +15,13 @@ It follows the standard implementation of lz77 compression algorithm . It search
 
 ---
 
-`usage lz77.py [-c | -d ] filename`
+usage lz77.py [-c | -d ] filename
 
-`option:`
+option:
 
-`-c :Compress data.`
+-c :Compress data.
 
-`-d :Decompress data.`
+-d :Decompress data.
 
 ##Includes
 
